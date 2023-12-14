@@ -203,5 +203,5 @@ void retornaSubstring(char s1[TAM])
 
     s3[x] = '\0';
 
-    printf("\n%s é uma substring de %s\n", s3, s1);
+    printf("\n'%s' é uma substring de '%s'\n", s3, s1);
 }
